@@ -1,0 +1,101 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-family: Georgia;
+}
+p {
+    color: #333;
+    font-size: 13px;
+}
+section {
+    margin-bottom: 100px;
+}
+.half-width {
+    width: 50%; padding-left: 5%;
+}
+.half-width img {
+    width: 60%;
+}
+#heading {
+    font-size: 42px;
+    padding-left: 10px;
+    border-left: 5px solid;
+    border-image: linear-gradient(#ff5959, blue);
+    border-image-slice: 1;
+    margin-top: 100px;
+}
+.heading-color {
+    color: #ff5959;
+}
+.flexible-container {
+    display: flex;
+}
+.btn-link {
+    text-decoration: none;
+    background-color: #ff5959;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-size: 13px;
+}
+.mission22 {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+.one-third {
+    width: 25%;
+    margin: 0% 5%;
+    padding: 20px;
+    border-radius: 20px;
+}
+.one-third img {
+    width: 40%;
+}
+.first {
+    background-color: #edf5f6;
+}
+.middle {
+    background-color: #ffeeee;
+}
+.third {
+    background-color: #fff4d6;
+}
+.fourty {
+    width: 40%;
+}
+.fourty img {
+    width: 70%;
+}
+.limits .fourty img {
+    margin-left: 100px;
+}
+.sixty {
+    width: 60%;
+}
+.limits .sixty {
+    padding: 0px 100px 0px 20px;
+}
+.sixty h1 {
+    font-family: 'Poppins', sans-serif;
+}
+.community .sixty {
+    padding: 0px 20px 0px 100px;
+}
+footer {
+    height: 150px;
+    background: black;
+}
+footer h1 {
+    color: white;
+    font-style: italic;
+    text-align: center;
+    padding-top: 20px;
+}
+footer p {
+    text-align: center;
+    color: #ccc;
+}
